@@ -8,6 +8,7 @@ Saya seorang IT enthusiast yang gemar membangun infrastruktur jaringan dan menge
 * Mengulik infrastruktur *Home Lab* tingkat lanjut (Virtualization, NAS, Networking, Container, Orchestration).
 * Membangun aplikasi terintegrasi.
 * Bermain-main dengan AI generatif dan *automation*.
+* Cloud computing
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SainzLab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -16,7 +17,7 @@ Saya seorang IT enthusiast yang gemar membangun infrastruktur jaringan dan menge
 * Website: [sainzlab.my.id](https://sainzlab.my.id)
 * Email: muhammadfazli@sainzlab.my.id
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
