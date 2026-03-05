@@ -5,8 +5,8 @@
 Saya seorang IT enthusiast yang gemar membangun infrastruktur jaringan dan mengelola *home lab*. Selain berkutat dengan server di siang hari, saya juga mengembangkan aplikasi web dan mobile.
 
 ### 🚀 What I'm currently working on
-* Mengulik infrastruktur *Home Lab* tingkat lanjut (Virtualization, NAS, Networking).
-* Membangun aplikasi terintegrasi seperti sistem portal layanan dan slip gaji.
+* Mengulik infrastruktur *Home Lab* tingkat lanjut (Virtualization, NAS, Networking, Container, Orchestration).
+* Membangun aplikasi terintegrasi.
 * Bermain-main dengan AI generatif dan *automation*.
 
 ### 📊 GitHub Stats
@@ -21,6 +21,8 @@ Saya seorang IT enthusiast yang gemar membangun infrastruktur jaringan dan menge
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/proxmox/E57000" alt="proxmox" width="40" height="40"/> </a>&nbsp;
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>&nbsp;
   <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>&nbsp;
 
@@ -36,6 +38,8 @@ Saya seorang IT enthusiast yang gemar membangun infrastruktur jaringan dan menge
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a>&nbsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;
 
+  <a href="https://cloudbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/dbeaver/382923" alt="cloudbeaver" width="40" height="40"/> </a>&nbsp;
+  <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/minio/C72C48" alt="minio" width="40" height="40"/> </a>&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>&nbsp;
