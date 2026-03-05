@@ -8,7 +8,7 @@ Saya seorang IT enthusiast yang gemar membangun infrastruktur jaringan dan menge
 * Mengulik infrastruktur *Home Lab* tingkat lanjut (Virtualization, NAS, Networking, Container, Orchestration).
 * Membangun aplikasi terintegrasi.
 * Bermain-main dengan AI generatif dan *automation*.
-* Cloud computing
+* Cloud computing.
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SainzLab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
