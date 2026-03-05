@@ -10,10 +10,7 @@ Saya seorang IT enthusiast yang gemar membangun infrastruktur jaringan dan menge
 * Bermain-main dengan AI generatif dan *automation*.
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SainzLab&show_icons=true&theme=tokyonight&hide_border=true&locale=id" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SainzLab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SainzLab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### 📫 How to reach me
 * Website: [sainzlab.my.id](https://sainzlab.my.id)
