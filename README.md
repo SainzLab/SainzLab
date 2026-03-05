@@ -1,4 +1,4 @@
-# Hi there, I'm Fazli (SainzLab) 👋
+# Hi there, I'm Muhammad Fazli M 👋
 
 **DevOps | Self-Hoster | Programmer**
 
